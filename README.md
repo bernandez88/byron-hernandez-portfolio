@@ -28,6 +28,12 @@ I am open to remote and international opportunities as a DevOps Engineer, Cloud 
 
 This repository is being developed to present practical, public examples of my work in cloud engineering, DevOps, backend development, and software delivery.
 
+## Case studies
+
+- [Azure Functions Cost Optimization](case-studies/azure-functions-cost-optimization.md)
+- [CI/CD for Mobile Application Releases](case-studies/ci-cd-mobile-releases.md)
+- [AI-Assisted Communications Platform](case-studies/communications-platform.md)
+
 Planned projects include:
 
 1. An Azure platform and infrastructure demo using Infrastructure as Code.
